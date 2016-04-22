@@ -1,4 +1,3 @@
-import sys
 from math import *
 import scipy.special as sp
 
